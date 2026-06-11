@@ -1,0 +1,14 @@
+# Backups de edição do JS
+*.bak
+
+# Node (caso alguém traga o fonte do front)
+node_modules/
+.angular/
+
+# Arquivos de ambiente com segredos
+.env
+*.env
+
+# Sistema
+.DS_Store
+Thumbs.db
